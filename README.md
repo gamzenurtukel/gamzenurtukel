@@ -1,17 +1,17 @@
 ### Hi 👋,I'm Gamzenur
 
-<h2 align="center">
+<h3 align="center">
 I'm a Front-End Developer 💻!
-</h2> 
+</h3> 
 
 
 ### 🤝 Connect with me:
 
-- 📫 How to reach me: gamzenurtukel@gmail.com
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/gamzenurtukel)](https://github.com/gamzenurtukel) 
 
-[![Linkedin Rozeti](https://img.shields.io/badge/-gamzenurtukel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamzenurtukel/)] (https://www.linkedin.com/in/gamzenurtukel/)
+[![Linkedin Badge](https://img.shields.io/badge/-gamzenurtukel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamzenurtukel/)](https://www.linkedin.com/in/gamzenurtukel/)
+
+[![Gmail Badge](https://img.shields.io/badge/-gamzenurtukel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gamzenurtukel@gmail.com)](mailto:gamzenurtukel@gmail.com)
 
 
 ## 💼 Technical Skills
@@ -27,6 +27,12 @@ I'm a Front-End Developer 💻!
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gamzenurtukel&count_private=true&show_icons=true&include_all_commits=true)
+
+
 
 
 
