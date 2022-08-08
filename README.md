@@ -10,6 +10,7 @@ I'm a Front-End Developer 💻!
 - 📫 How to reach me: gamzenurtukel@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/gamzenurtukel)](https://github.com/gamzenurtukel) 
+
 [![Linkedin Rozeti](https://img.shields.io/badge/-gamzenurtukel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamzenurtukel/)] (https://www.linkedin.com/in/gamzenurtukel/)
 
 
