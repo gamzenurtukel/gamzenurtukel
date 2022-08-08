@@ -7,8 +7,6 @@ I'm a Front-End Developer 💻!
 
 ### 🤝 Connect with me:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/gamzenurtukel)](https://github.com/gamzenurtukel) 
-
 [![Linkedin Badge](https://img.shields.io/badge/-gamzenurtukel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamzenurtukel/)](https://www.linkedin.com/in/gamzenurtukel/)
 
 [![Gmail Badge](https://img.shields.io/badge/-gamzenurtukel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gamzenurtukel@gmail.com)](mailto:gamzenurtukel@gmail.com)
