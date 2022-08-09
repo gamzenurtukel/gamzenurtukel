@@ -32,7 +32,6 @@ Temiz ve sürdürülebilir kod yazmayı seviyorum.Güncel teknolojileri anlık t
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gamzenurtukel&count_private=true&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzenurtukel&layout=compact)](https://github.com/gamzenurtukel)
 
 
 
