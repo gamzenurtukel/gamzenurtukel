@@ -4,7 +4,7 @@
 I'm a Front-End Developer 💻!
 </h3> 
 
-Temiz ve sürdürülebilir kod yazmayı seviyorum.Güncel teknolojileri anlık takip ediyorum ve kendini sürekli geliştirmeye çalışıyorum.Benimle ilgili daha fazla bilgi edinin ve benimle buradan bağlantı kurmaktan çekinmeyin.
+I like to write clean and maintainable code. I follow current technologies instantly and try to improve myself constantly. Learn more about me and do not hesitate to contact me here.
 
 
 ### 🤝 Connect with me:
